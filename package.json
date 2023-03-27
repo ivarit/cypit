@@ -1,0 +1,27 @@
+{
+  "name": "cypit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivarit/cypit.git"
+  },
+  "keywords": [
+    "cypress",
+    "e2e",
+    "v12"
+  ],
+  "author": "ivarit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivarit/cypit/issues"
+  },
+  "homepage": "https://github.com/ivarit/cypit#readme",
+  "devDependencies": {
+    "cypress": "^12.8.1"
+  }
+}
